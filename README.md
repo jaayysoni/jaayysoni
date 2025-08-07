@@ -1,4 +1,4 @@
-<h1 align="center">Namashkar 🙏, I'm Jay Soni</h1>
+<h1 align="center">I'm Jay Soni</h1>
 <h3 align="center">Backend Tech Enthusiast | Python Developer</h3>
 
 ---
@@ -50,10 +50,3 @@
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jaayysoni)
 
 ---
-
-###  Contribution Graph (Snake Animation)
-
-```md
-### 🐍 Contribution Graph (Snake Animation)
-
-![Snake animation](https://github.com/jaayysoni/jaayysoni/blob/output/github-contribution-grid-snake.svg)
