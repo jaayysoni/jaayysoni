@@ -54,4 +54,6 @@
 ###  Contribution Graph (Snake Animation)
 
 ```md
-![Snake animation](https://github.com/jaysoni-tech/jaysoni/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Graph (Snake Animation)
+
+![Snake animation](https://github.com/jaayysoni/jaayysoni/blob/output/github-contribution-grid-snake.svg)
