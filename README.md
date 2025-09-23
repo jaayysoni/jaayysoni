@@ -1,8 +1,8 @@
 <h1 align="center">I'm Jay Soni</h1>
-<h3 align="center">Aspiring SDE 1</h3>
+<h3 align="center">Aspiring SDE</h3>
 
 ### About Me
-- Aspiring SDE 1 with strong **Python** skills and experience in **Flask, FastAPI, and REST API development**.
+- Aspiring SDE with strong **Python** skills and experience in **Flask, FastAPI, and REST API development**.
 - Currently building a **Stock Market Simulator** with real-time stock prices, portfolio tracking.
 - Exploring **System Design, Caching, Job Schedulers**, and **Cloud (AWS)** technologies.
 - Strong CS fundamentals, problem-solving skills, and a passion for building secure, maintainable software.
