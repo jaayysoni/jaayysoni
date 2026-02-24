@@ -1,9 +1,18 @@
-<h1 align="center">I'm Jay Soni</h1>
-<h3 align="center">Aspiring SDE</h3>
+<h1 align="center">Hi, I'm Jay Soni</h1>
+<h3 align="center">Python Developer</h3>
 
-###  Connect with Me
+<p align="center">
+Curious and dedicated developer, driven to build reliable and elegant solutions while constantly learning and improving.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jaayysoni/)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/jaayysoni)
-[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/jaayysoni)
-[![Credly](https://img.shields.io/badge/-Credly-0052FF?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/jay-soni.ffd962b9)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaayysoni/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/jaayysoni">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://x.com/jaayysoni">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
