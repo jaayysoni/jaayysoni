@@ -2,7 +2,7 @@
 <h3 align="center">Python Developer</h3>
 
 <p align="center">
-Curious and dedicated developer, driven to build reliable and elegant solutions while constantly learning and improving.
+Motivated and detail-oriented developer focused on building efficient, scalable solutions while continuously learning new technologies.
 </p>
 
 <p align="center">
