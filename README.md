@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jay Soni</h1>
-<h3 align="center">SDE</h3>
+<h3 align="center">SDE | Backend</h3>
 
 <p align="center">
 Motivated and detail-oriented developer focused on building efficient, scalable solutions while continuously learning new technologies.
